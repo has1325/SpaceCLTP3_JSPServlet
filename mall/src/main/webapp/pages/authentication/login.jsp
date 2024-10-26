@@ -28,10 +28,10 @@
 	              <h3>구매자 로그인</h3>
 	              <form>
 	                  <div class="form-group">
-	                      <input type="text" class="form-control" placeholder="ID" />
+	                      <input type="text" class="BUYER_ID" placeholder="ID" />
 	                  </div>
 	                  <div class="form-group">
-	                      <input type="password" class="form-control" placeholder="Password"/>
+	                      <input type="password" class="PASSWORD" placeholder="Password"/>
 	                  </div>
 	                  <div class="form-group">
 	                      <input type="submit" class="btnSubmit" value="Login" />

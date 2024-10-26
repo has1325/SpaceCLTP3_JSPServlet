@@ -43,16 +43,16 @@
                              <form action="login" class="row register-form" id="signupform" method="post" >
                                  <div class="col-md-6">
                                      <div class="form-group">
-                                         <input type="text" class="form-control" placeholder="Name" value="" required/>
+                                         <input type="text" class="NAME" placeholder="Name" value="" required/>
                                      </div>
                                      <div class="form-group">
-                                         <input type="text" class="form-control" placeholder="아이디를 입력하세요" value="" required/>
+                                         <input type="text" class="_BUYER_ID" placeholder="아이디를 입력하세요" value="" required/>
                                      </div>
                                      <div class="form-group">
-                                         <input type="password" class="form-control"  placeholder="Password" value="" required/>
+                                         <input type="password" class="PASSWORD"  placeholder="Password" value="" required/>
                                      </div>
                                      <div class="form-group">
-                                         <input type="password" class="form-control"  placeholder="Confirm Password *" value="" required/>
+                                         <input type="password" class="PASSWORD1"  placeholder="Confirm Password *" value="" required/>
                                      </div>
                                      <div class="form-group">
                                          <input type="text" class="form-control" placeholder="닉네임을 입력해주세요(선택사항)" value="" /> <!--  -->
@@ -76,7 +76,7 @@
                                         <input type="email" class="form-control" placeholder="Email" value="" />
                                      </div>
                                  </div>
-                                 <input type="submit" class="btnRegister"  value="Register"/>
+                                 <input type="submit" class="btnRegister" id="signupform" value="Register"/>
                              </form>
                          </div>
                      </div>

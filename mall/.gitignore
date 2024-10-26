@@ -47,4 +47,8 @@ pom.xml.versionsBackup
 pom.xml.next
 release.properties
 dependency-reduced-pom.xml
+<<<<<<< HEAD
 /bin/
+=======
+/bin/
+>>>>>>> branch 'main' of https://github.com/has1325/SpaceCLTP3_JSPServlet.git
